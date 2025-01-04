@@ -9,7 +9,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CSnamespace</RootNamespace>
-    <AssemblyName>ColorSelectorDemo</AssemblyName>
+    <AssemblyName>ColorSelector</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ApplicationIcon>landenlabs.ico</ApplicationIcon>
