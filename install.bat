@@ -5,15 +5,14 @@
 set prog=ColorSelector
 set bindir=d:\opt\bin
 set msbuild=F:\opt\VisualStudio\2022\Preview\MSBuild\Current\Bin\MSBuild.exe
-
  
 @echo ---- Clean Release %prog% 
 cd %prog%
 lldu -sum obj bin 
 rmdir /s obj  2> nul
 rmdir /s bin  2> nul
-cd ..
 @rem %msbuild% %prog%.sln  -t:Clean
+cd ..
 
 @echo.
 @echo ---- Build Release %prog% 
