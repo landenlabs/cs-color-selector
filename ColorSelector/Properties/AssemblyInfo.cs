@@ -9,10 +9,10 @@ using System.Resources;
 [assembly: AssemblyTitle("C# Color Selector Wheel Demo")]
 [assembly: AssemblyDescription("Demo RGB/HSL color selector wheel")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("LanDen Labs")]
+[assembly: AssemblyCompany("LanDen Labs - Dennis Lang")]
 [assembly: AssemblyProduct("ColorSelector (2025)")]
-[assembly: AssemblyCopyright("Copyright © LanDen Labs")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright © LanDen Labs 2025")]
+[assembly: AssemblyTrademark("free to use, can't sell")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35605.110
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSelector", "ColorSelector\ColorSelector.csproj", "{E8F40AF4-DCAF-46E3-ADDF-1A48019D2054}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSelector", "ColorSelector.csproj", "{E8F40AF4-DCAF-46E3-ADDF-1A48019D2054}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
